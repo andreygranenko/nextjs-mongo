@@ -25,9 +25,6 @@ npx create-next-app --example with-mongodb with-mongodb-app
 yarn create next-app --example with-mongodb with-mongodb-app
 ```
 
-```bash
-pnpm create next-app --example with-mongodb with-mongodb-app
-```
 
 ## Configuration
 
